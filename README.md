@@ -1,6 +1,8 @@
 # Text-Utilities
+![textUtilslightmode](https://github.com/Ashutosh-aditya/Text-Utilities/assets/78680582/1913d882-e8ef-40c7-9d20-e5e08a823d7c)
+![textUtilsdarkmode](https://github.com/Ashutosh-aditya/Text-Utilities/assets/78680582/d821adb6-ed54-4f97-b4a6-72626f4c27e0)
 
-![Project Image](link-to-project-image) <!-- Optional: Include an image or a GIF showcasing your project -->
+
 
 ## Overview
 
