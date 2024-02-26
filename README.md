@@ -48,6 +48,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 - Thanks to the React community for providing a robust library.
+- Thanks to the youtube channel CodeWithHarry for basic design and implementation knowledge.
 
 ---
 
