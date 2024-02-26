@@ -16,9 +16,6 @@ Text-Utilities is a dynamic React web application designed for text manipulation
 - Utilized React Router for efficient page navigation.
 - Integrated color theme options to customize the background.
 
-## Demo
-
-![Demo GIF](link-to-demo-gif) <!-- Optional: If you have a demo GIF or video, include it here -->
 
 ## Getting Started
 
